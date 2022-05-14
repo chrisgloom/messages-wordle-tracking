@@ -1,0 +1,14 @@
+autopep8==1.5.7
+google-api-python-client==2.46.0
+google-auth-oauthlib==0.5.1
+numpy==1.22.3
+pip-chill==1.0.1
+pylint==2.10.2
+pyqt-builder==1.12.2
+pyqt3d==5.15.5
+pyqtchart==5.15.5
+pyqtdatavisualization==5.15.5
+pyqtnetworkauth==5.15.5
+pyqtpurchasing==5.15.5
+pyqtwebengine==5.15.5
+unicorn==1.0.3
